@@ -11,6 +11,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 from modules.ge_emailcheck import check
 from modules.ge_geoiplookup import geoipLookup
+from modules.ge_iknowwhatyoudownload import ikwd
 from modules.ge_accountfinder import holohe
 from modules.ge_whatsmyname import whatsmyname
 from modules.ge_haveibeenpwned import haveibeenpwned
