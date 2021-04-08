@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="./images/logo.png"/>
+  <img src="./images/logo.png" width=1600 height=461 />
   <br>
   <span>OSINT - Gather information about target.</span>
   <br>
