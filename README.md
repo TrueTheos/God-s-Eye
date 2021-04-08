@@ -40,4 +40,4 @@ $ git clone https://github.com/Loiuy123/God-s-Eye.git
 We would love to have you help me with the development of **God's Eye**. Each and every contribution is greatly valued! Contact me via Discord - Theos#2613
 
 ## Support
-If you appreciate my work and wish to support it, feel free to: <a href="http://buymeacoffee.com/yassineaboukir"><img src="https://cdn-images-1.medium.com/max/738/1*G95uyokAH4JC5Ppvx4LmoQ@2x.png" width="150"></a>
+If you appreciate my work and wish to support it, feel free to: <a href="https://www.buymeacoffee.com/theos"><img src="https://cdn-images-1.medium.com/max/738/1*G95uyokAH4JC5Ppvx4LmoQ@2x.png" width="150"></a>
