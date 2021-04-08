@@ -20,7 +20,7 @@
 - Get information about target IP using [whatismyipaddress.com](https://whatismyipaddress.com/)
 - Check what the target IP was downloading via Torrent
 - List accounts from the popular websites created using target nickname
-- 
+
 More in the future!
 
 ## Installation
