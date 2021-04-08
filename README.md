@@ -12,14 +12,25 @@
 
 **God's Eye** is an email, nickname and IP OSINT and breach hunting tool. Everything with clear and simple GUI.
 
+## Features
+
+- Check if email is [disposable](https://en.wikipedia.org/wiki/Disposable_email_address)
+- List accounts from the popular websites created using target email
+- Look for data breaches associated with target email
+- Get information about target IP using [whatismyipaddress.com](https://whatismyipaddress.com/)
+- Check what the target IP was downloading via Torrent
+- List accounts from the popular websites created using target nickname
+- 
+More in the future!
+
 ## Installation
 
 ```console
 # clone the repo
-$ git clone https://github.com/Loiuy123/Tartarus.git
+$ git clone https://github.com/Loiuy123/God-s-Eye.git
 
-# change the working directory to tartarus
-# cd tartarus
+# change the working directory to GodsEye
+# cd GodsEye
 ```
 
 ## Usage
