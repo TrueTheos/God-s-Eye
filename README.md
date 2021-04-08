@@ -3,8 +3,11 @@
   <br>
   <span>OSINT - Gather information about target.</span>
   <br>
+  <img src="https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20OSX-success.svg">
+  <img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg">
+  <img src="https://img.shields.io/badge/License-GMT3.0-blue.svg">
  </p>
- [![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20OSX-success.svg)]
+ 
 **God's Eye** allows you to:
 - Make invisible text inside messages using zero width characters
 - Hide messages inside image's metadata
