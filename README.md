@@ -36,6 +36,10 @@ $ git clone https://github.com/Loiuy123/God-s-Eye.git
 # pip install requirements.txt
 ```
 
+## Showcase
+
+<img src="./images/showcase.png"/>
+
 ## Contributing
 We would love to have you help me with the development of **God's Eye**. Each and every contribution is greatly valued! Contact me via Discord - Theos#2613
 
