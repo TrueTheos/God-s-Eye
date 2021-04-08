@@ -10,15 +10,9 @@
 
 ---- 
 
-**God's Eye** allows you to:
-- Make invisible text inside messages using zero width characters
-- Hide messages inside image's metadata
-- Look for hidden messages inside image's metdata
-- Merge two images into one
-- Unmerge images and reveal hidden image
-- Hide and reveal data in WAV files
+**God's Eye** is an email, nickname and IP OSINT and breach hunting tool. Everything with clear and simple GUI.
 
-More in the future!
+----
  
 ## Steganography
 
