@@ -33,7 +33,7 @@ $ git clone https://github.com/Loiuy123/God-s-Eye.git
 # cd GodsEye
 
 # install required libraries
-# pip install requirements.txt
+# pip install -r requirements.txt
 ```
 
 ## Showcase
