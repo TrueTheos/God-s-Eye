@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/License-GMT3.0-blue.svg">
 </p>
 
+## GOD'S EYE IS NO LONGER MAINTAINED!
+
 ## What is God's Eye
 
 **God's Eye** is an email, nickname and IP OSINT and breach hunting tool. Everything with clear and simple GUI.
